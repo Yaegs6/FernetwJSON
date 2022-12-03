@@ -1,0 +1,67 @@
+{
+    "Employees": [
+        {
+            "ID": "1",
+            "Job Title": "Technician",
+            "First Name": "Joe",
+            "Last Name": "Schmo",
+            "Email": "JSchmo@yourcompanyemail.com",
+            "Username": "jschmo",
+            "Password": "SomePassword12"
+        },
+        {
+            "ID": "2",
+            "Job Title": "Technician",
+            "First Name": "Rodger",
+            "Last Name": "Dodger",
+            "Email": "RDodger@yourcompanyemail.com",
+            "Username": "rdodger",
+            "Password": "somepassword2!9*"
+        },
+        {
+            "ID": "3",
+            "Job Title": "Supervisor",
+            "First Name": "Nancy",
+            "Last Name": "Noname",
+            "Email": "NNoname@yourcompanyemail.com",
+            "Username": "nnoname",
+            "Password": "Athirdpassword"
+        },
+        {
+            "ID": "4",
+            "Job Title": "Engineer",
+            "First Name": "Jane",
+            "Last Name": "Doe",
+            "Email": "JDoe@yourcompanyemail.com",
+            "Username": "jdoe",
+            "Password": "password4"
+        },
+        {
+            "ID": "5",
+            "Job Title": "Director",
+            "First Name": "Henry Ralph",
+            "Last Name": "Shovenstuff",
+            "Email": "HShovenstuff@yourcompanyemail.com",
+            "Username": "hshovenstuff",
+            "Password": "imkindofhungry5%^"
+        },
+        {
+            "ID": "6",
+            "Job Title": "Technician",
+            "First Name": "Ray",
+            "Last Name": "Slay",
+            "Email": "RSlay@yourcompanyemail.com",
+            "Username": "rslay",
+            "Password": "thinkingTacos!"
+        },
+        {
+            "ID": "7",
+            "Job Title": "Materials Handler",
+            "First Name": "Amanda",
+            "Last Name": "Outstanda",
+            "Email": "AOutstanda@yourcompanyemail.com",
+            "Username": "aoutstanda",
+            "Password": "IlIkEtAcOs"
+        }
+    ]
+}

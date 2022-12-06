@@ -1,5 +1,5 @@
 # FernetwJSON
-Encryption and Decryption methods using fernet keys
+Encryption and Decryption functions using fernet keys
 
-This is two short methods that encrypt/decrypt a json file using a fernet key. 
+These are two short functions that encrypt/decrypt a json file using a fernet key. 
 Use the 'pip install cryptography' command to install the necessary libraries. 
